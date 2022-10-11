@@ -1,0 +1,22 @@
+header {
+  background-color: #4e555b;
+  width: 100%;
+  height: 100px; }
+
+nav {
+  margin: 0 auto;
+  width: 1500px;
+  height: 100px; }
+  nav .nav-item {
+    margin-left: 35px; }
+  nav .navbar-nav {
+    margin-left: 800px;
+    font-weight: bold; }
+
+.section-b {
+  background-color: #0c5460;
+  width: 100%;
+  height: 350px; }
+
+
+/*# sourceMappingURL=style.css.map */
